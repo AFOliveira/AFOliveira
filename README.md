@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afonso Oliveira</h1>
 <h3 align="center">A Embedded Systems and Robotics's enthusiast from Portugal</h3>
 
-- 🔭 I’m currently working on an **Political Chatbot**
+- 🔭 I’m currently working on an **C Compiler** 
 
 - 🌱 I’m currently learning **LLMs and Compilers**
 
