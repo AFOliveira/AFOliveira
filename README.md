@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afonso Oliveira</h1>
-<h3 align="center">A Embedded Systems and Robotics's enthusiast from Portugal</h3>
+<h3 align="center">An Embedded Systems and Robotics's enthusiast from Portugal</h3>
 
 - 🔭 I’m currently working on an **C Compiler** 
 
