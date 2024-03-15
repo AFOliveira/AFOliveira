@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Afonso Oliveira</h1>
 <h3 align="center">An Embedded Systems and Robotics's enthusiast from Portugal</h3>
 
-- 🔭 I’m currently working on an **C Compiler** 
+- 🔭 I’m currently working on an **SOC and a ML deployment on BAO Hypervisor** 
 
-- 🌱 I’m currently learning **LLMs and Compilers**
+- 🌱 I’m currently learning **Compilers, SOCs, Hypervisors**
 
 - 📫 How to reach me **afonso.oliveira707@gmail.com**
 
