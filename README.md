@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an **SOC and a ML deployment on BAO Hypervisor** 
 
-- 🌱 I’m currently learning **Compilers, SOCs, Hypervisors**
+- 🌱 I’m currently learning **Compilers, FPGAs and Hypervisors**
 
 - 📫 How to reach me **afonso.oliveira707@gmail.com**
 
