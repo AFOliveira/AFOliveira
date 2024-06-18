@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Memory Management on Multi-Core Platforms**
 
-- 📫 How to reach me **afonso.oliveira707@gmail.com**
+- 📫 Feel free to reach me at **afonso.oliveira707@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
