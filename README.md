@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Afonso Oliveira</h1>
 <h3 align="center">An Embedded Systems and Robotics's enthusiast from Portugal</h3>
 
-- 🔭 I’m currently working on **Machine Learning on Multi-core Platforms** 
+- 🔭 I’m currently working on **Virtualization** 
 
-- 🌱 I’m currently learning **Compilers, FPGAs and Hypervisors**
+- 🌱 I’m currently learning **Memory Management on Multi-Core Platforms**
 
 - 📫 How to reach me **afonso.oliveira707@gmail.com**
 
