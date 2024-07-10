@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afonso Oliveira</h1>
 <h3 align="center">An Embedded Systems and Machine Learning enthusiast from Portugal</h3>
 
-- 🔭 I’m currently working on **Virtualization** 
+- 🔭 I’m currently working on **Risc-V ISA Manual** 
 
 - 🌱 I’m currently learning **Memory Management on Multi-Core Platforms**
 
