@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Afonso Oliveira</h1>
-<h3 align="center">An Embedded Systems and Machine Learning enthusiast from Portugal</h3>
+<h1 align="center">Hi 👋, I'm Afonso</h1>
 
-- 🔭 I’m currently working on **Risc-V ISA Manual** 
-
-- 🌱 I’m currently learning **Memory Management on Multi-Core Platforms**
+- I’m currently working in the **Risc-V ISA Manual** 
 
 - 📫 Feel free to reach me at **afonso.oliveira707@gmail.com**
 
