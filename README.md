@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afonso</h1>
 
-- I’m currently working in the **Risc-V ISA Manual** 
-
 - 📫 Feel free to reach me at **afonso.oliveira707@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
